@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>any-do-logo-small.png</file>
+    </qresource>
+</RCC>
